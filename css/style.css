@@ -152,7 +152,7 @@ section{max-width:1920px;margin:0 auto;}
 /* chap1 */
 .chap1{height:1080px;position: relative;}
 .visual_top{width:1200px;text-align:center;margin:0 auto;position: relative;z-index:2;top:137px;}
-.visual_top .chap1_logo{background:url('../images/images/img_chap1_visual_top.png') center top no-repeat;width:791px;height:242px;margin:0 auto 50px auto;}
+.visual_top .chap1_logo{background:url('../images/images/img_chap1_visual_top.png') center top no-repeat;width:791px;height:157px;margin:0 auto 50px auto;}
 .visual_top .chap1_tit_title{font-size:55px;color:white;font-weight:800;margin-bottom:40px}
 .visual_top .chap1_tit_sub{color:white;font-size:25px}
 .visual_top .chap1_tit_sub p{line-height:45px;}
@@ -361,7 +361,7 @@ section{max-width:1920px;margin:0 auto;}
 /* chap6 */
 /* chap7 */
 .chap7{position: relative;}
-.chap7_logo{background:url('../images/images/img_chap1_visual_top.png') center top no-repeat;width:664px;height:242px;margin:0 auto 50px auto;}
+.chap7_logo{background:url('../images/images/img_chap1_visual_top_title.png') center top no-repeat;width:664px;height:131px;margin:0 auto 50px auto;}
 .chap7_appdown_btn{text-align:center;}
 .chap7_appdown_btn li{display:inline-block;}
 .chap7_appdown_btn li:last-child{margin-left:-20px}
